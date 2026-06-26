@@ -19,6 +19,7 @@ cv2.destroyAllWindows()
 print(txt)
 
 
+
 my_file = open('file.txt', 'w')
 my_file.write(txt + '\n')
 my_file.close()
